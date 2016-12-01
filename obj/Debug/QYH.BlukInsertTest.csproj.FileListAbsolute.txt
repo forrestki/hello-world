@@ -1,0 +1,12 @@
+E:\EF\QYH.BlukInsertTest\bin\Debug\QYH.BlukInsertTest.exe.config
+E:\EF\QYH.BlukInsertTest\bin\Debug\QYH.BlukInsertTest.exe
+E:\EF\QYH.BlukInsertTest\bin\Debug\QYH.BlukInsertTest.pdb
+E:\EF\QYH.BlukInsertTest\obj\Debug\QYH.BlukInsertTest.csprojResolveAssemblyReference.cache
+E:\EF\QYH.BlukInsertTest\obj\Debug\QYH.BlukInsertTest.exe
+E:\EF\QYH.BlukInsertTest\obj\Debug\QYH.BlukInsertTest.pdb
+D:\学习\ASP.NET\QYH.BlukInsertTest\bin\Debug\QYH.BlukInsertTest.exe.config
+D:\学习\ASP.NET\QYH.BlukInsertTest\obj\Debug\QYH.BlukInsertTest.exe
+D:\学习\ASP.NET\QYH.BlukInsertTest\obj\Debug\QYH.BlukInsertTest.pdb
+D:\学习\ASP.NET\QYH.BlukInsertTest\bin\Debug\QYH.BlukInsertTest.exe
+D:\学习\ASP.NET\QYH.BlukInsertTest\bin\Debug\QYH.BlukInsertTest.pdb
+D:\学习\ASP.NET\QYH.BlukInsertTest\obj\Debug\QYH.BlukInsertTest.csprojResolveAssemblyReference.cache
